@@ -5,9 +5,9 @@
 >There were 5 levels and 9 problems in this challenge.\
 >Level 1 has 1 problem, level 2 has 2 problems, level 3 has 3 problems, level 4 has 2 problems and level 5 has 1 problem.
 
-I took part in this challange couple of months ago. I share questions of this challenge so that if any have interest the he/she can practice this questions.
+I took part in this challenge couple of months ago. I share questions of this challenge so that if any have interest the he/she can practice this questions.
 
-I will never share solution for this tests. If anyone need any help regarding explation of this problems then please feel free to knock me.
+I will never share solution for this tests. If anyone need any help regarding expiation of this problems then please feel free to knock me.
 
 **Contact Details**
    - Skype: https://join.skype.com/invite/oigG2GQyCpRP
